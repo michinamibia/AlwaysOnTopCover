@@ -1,0 +1,17 @@
+C:\Users\michi\source\repos\Outliner\Outliner\bin\Debug\net6.0-windows\Outliner.exe
+C:\Users\michi\source\repos\Outliner\Outliner\bin\Debug\net6.0-windows\Outliner.deps.json
+C:\Users\michi\source\repos\Outliner\Outliner\bin\Debug\net6.0-windows\Outliner.runtimeconfig.json
+C:\Users\michi\source\repos\Outliner\Outliner\bin\Debug\net6.0-windows\Outliner.dll
+C:\Users\michi\source\repos\Outliner\Outliner\bin\Debug\net6.0-windows\Outliner.pdb
+C:\Users\michi\source\repos\Outliner\Outliner\obj\Debug\net6.0-windows\Outliner.csproj.AssemblyReference.cache
+C:\Users\michi\source\repos\Outliner\Outliner\obj\Debug\net6.0-windows\Outliner.Form1.resources
+C:\Users\michi\source\repos\Outliner\Outliner\obj\Debug\net6.0-windows\Outliner.csproj.GenerateResource.cache
+C:\Users\michi\source\repos\Outliner\Outliner\obj\Debug\net6.0-windows\Outliner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\michi\source\repos\Outliner\Outliner\obj\Debug\net6.0-windows\Outliner.AssemblyInfoInputs.cache
+C:\Users\michi\source\repos\Outliner\Outliner\obj\Debug\net6.0-windows\Outliner.AssemblyInfo.cs
+C:\Users\michi\source\repos\Outliner\Outliner\obj\Debug\net6.0-windows\Outliner.csproj.CoreCompileInputs.cache
+C:\Users\michi\source\repos\Outliner\Outliner\obj\Debug\net6.0-windows\Outliner.dll
+C:\Users\michi\source\repos\Outliner\Outliner\obj\Debug\net6.0-windows\refint\Outliner.dll
+C:\Users\michi\source\repos\Outliner\Outliner\obj\Debug\net6.0-windows\Outliner.pdb
+C:\Users\michi\source\repos\Outliner\Outliner\obj\Debug\net6.0-windows\Outliner.genruntimeconfig.cache
+C:\Users\michi\source\repos\Outliner\Outliner\obj\Debug\net6.0-windows\ref\Outliner.dll
